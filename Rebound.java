@@ -1,5 +1,5 @@
 //********************************************************************
-//  Rebound.java       Author: Lewis/Loftus Modfided by Nicholas Ouellette & Mitchell Golding
+//  Rebound.java       Author: Lewis/Loftus Modfided for pong by Nicholas Ouellette & Mitchell Golding
 //
 //  Demonstrates an animation and the use of the Timer class.
 //********************************************************************
